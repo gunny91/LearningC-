@@ -1,0 +1,12 @@
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+D:\Project\LearningCSharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+D:\Project\LearningCSharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

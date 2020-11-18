@@ -10,3 +10,4 @@ D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreC
 D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.dll
 D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.pdb
 D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.csprojAssemblyReference.cache

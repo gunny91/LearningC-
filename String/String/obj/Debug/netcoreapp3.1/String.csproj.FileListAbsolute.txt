@@ -1,0 +1,12 @@
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.exe
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.deps.json
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.dll
+D:\Project\LearningCSharp\String\String\bin\Debug\netcoreapp3.1\String.pdb
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.dll
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.pdb
+D:\Project\LearningCSharp\String\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache

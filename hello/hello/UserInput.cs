@@ -1,12 +1,26 @@
 ﻿using System;
+using System.Diagnostics;
 
-public class UserInput
+namespace hello
 {
-	public UserInput()
+    [DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
+    public class UserInput
 	{
-		Console.WriteLine("Enter Your Name");
-		String userName = Console.ReadLine();
+		public UserInput()
+		{
 
-		Console.WriteLine("UserName is " + userName);
-	}
+			static void Main(string[] args)
+			{
+				Console.WriteLine("Enter Your Name");
+				String userName = Console.ReadLine();
+
+				Console.WriteLine("UserName is " + userName);
+			}
+		}
+
+        private string GetDebuggerDisplay()
+        {
+            return ToString();
+        }
+    }
 }

@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Program.cs" />
-    <Compile Remove="UserInput.cs" />
-  </ItemGroup>
-
 </Project>
