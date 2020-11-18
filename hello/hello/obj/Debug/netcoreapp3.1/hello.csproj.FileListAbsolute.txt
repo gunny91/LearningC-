@@ -1,0 +1,12 @@
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.exe
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.deps.json
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.dll
+D:\Project\LearningCSharp\hello\hello\bin\Debug\netcoreapp3.1\hello.pdb
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompileInputs.cache
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.dll
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.pdb
+D:\Project\LearningCSharp\hello\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache
