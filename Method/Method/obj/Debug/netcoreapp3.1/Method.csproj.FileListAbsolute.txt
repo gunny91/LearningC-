@@ -1,0 +1,13 @@
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+D:\Project\LearningCSharp\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+D:\Project\LearningCSharp\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
