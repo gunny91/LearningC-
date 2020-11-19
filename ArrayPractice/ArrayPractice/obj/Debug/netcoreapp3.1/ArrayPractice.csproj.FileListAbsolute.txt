@@ -1,0 +1,13 @@
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.exe
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.deps.json
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.json
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.dev.json
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.dll
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.pdb
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csprojAssemblyReference.cache
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfoInputs.cache
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfo.cs
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.CoreCompileInputs.cache
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.dll
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.pdb
+D:\Project\LearningCSharp\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.genruntimeconfig.cache
